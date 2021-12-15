@@ -1,0 +1,13 @@
+C:\Users\Farrukh\source\repos\cycles3\cycles3\bin\Debug\netcoreapp3.1\cycles3.exe
+C:\Users\Farrukh\source\repos\cycles3\cycles3\bin\Debug\netcoreapp3.1\cycles3.deps.json
+C:\Users\Farrukh\source\repos\cycles3\cycles3\bin\Debug\netcoreapp3.1\cycles3.runtimeconfig.json
+C:\Users\Farrukh\source\repos\cycles3\cycles3\bin\Debug\netcoreapp3.1\cycles3.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\cycles3\cycles3\bin\Debug\netcoreapp3.1\cycles3.dll
+C:\Users\Farrukh\source\repos\cycles3\cycles3\bin\Debug\netcoreapp3.1\cycles3.pdb
+C:\Users\Farrukh\source\repos\cycles3\cycles3\obj\Debug\netcoreapp3.1\cycles3.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\cycles3\cycles3\obj\Debug\netcoreapp3.1\cycles3.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\cycles3\cycles3\obj\Debug\netcoreapp3.1\cycles3.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\cycles3\cycles3\obj\Debug\netcoreapp3.1\cycles3.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\cycles3\cycles3\obj\Debug\netcoreapp3.1\cycles3.dll
+C:\Users\Farrukh\source\repos\cycles3\cycles3\obj\Debug\netcoreapp3.1\cycles3.pdb
+C:\Users\Farrukh\source\repos\cycles3\cycles3\obj\Debug\netcoreapp3.1\cycles3.genruntimeconfig.cache

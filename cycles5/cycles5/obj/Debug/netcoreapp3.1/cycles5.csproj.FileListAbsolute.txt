@@ -1,0 +1,13 @@
+C:\Users\Farrukh\source\repos\cycles5\cycles5\bin\Debug\netcoreapp3.1\cycles5.exe
+C:\Users\Farrukh\source\repos\cycles5\cycles5\bin\Debug\netcoreapp3.1\cycles5.deps.json
+C:\Users\Farrukh\source\repos\cycles5\cycles5\bin\Debug\netcoreapp3.1\cycles5.runtimeconfig.json
+C:\Users\Farrukh\source\repos\cycles5\cycles5\bin\Debug\netcoreapp3.1\cycles5.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\cycles5\cycles5\bin\Debug\netcoreapp3.1\cycles5.dll
+C:\Users\Farrukh\source\repos\cycles5\cycles5\bin\Debug\netcoreapp3.1\cycles5.pdb
+C:\Users\Farrukh\source\repos\cycles5\cycles5\obj\Debug\netcoreapp3.1\cycles5.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\cycles5\cycles5\obj\Debug\netcoreapp3.1\cycles5.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\cycles5\cycles5\obj\Debug\netcoreapp3.1\cycles5.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\cycles5\cycles5\obj\Debug\netcoreapp3.1\cycles5.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\cycles5\cycles5\obj\Debug\netcoreapp3.1\cycles5.dll
+C:\Users\Farrukh\source\repos\cycles5\cycles5\obj\Debug\netcoreapp3.1\cycles5.pdb
+C:\Users\Farrukh\source\repos\cycles5\cycles5\obj\Debug\netcoreapp3.1\cycles5.genruntimeconfig.cache
