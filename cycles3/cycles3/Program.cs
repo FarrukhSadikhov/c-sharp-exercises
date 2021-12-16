@@ -13,12 +13,19 @@ namespace cycles3
                 Console.WriteLine($"Вычислить факториал числа :");
                 int number = Convert.ToInt32(Console.ReadLine());
                 int factorial = 1;
-                while (number > 1)
+                if(number < 0)
                 {
-                    factorial = factorial * number;
-                    number--;
+                    Console.Write("У отрицательных чисел факториала не бывает");
                 }
-                Console.WriteLine($"факториал числа равен :{factorial}");
+                else if(number >0) 
+                {
+                    while (number > 0)
+                    {
+                        factorial = factorial * number;
+                        number--;
+                    }
+                    Console.WriteLine($"факториал этого числа равен :{factorial}");
+                }
             }
             catch
             {
