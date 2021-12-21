@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Farrukh\\source\\repos\\cycles2\\cycles2\\cycles2.csproj",
+      "projectUniqueName": "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson4\\cycles2\\cycles2\\cycles2.csproj",
       "projectName": "cycles2",
-      "projectPath": "C:\\Users\\Farrukh\\source\\repos\\cycles2\\cycles2\\cycles2.csproj",
+      "projectPath": "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson4\\cycles2\\cycles2\\cycles2.csproj",
       "packagesPath": "C:\\Users\\Farrukh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Farrukh\\source\\repos\\cycles2\\cycles2\\obj\\",
+      "outputPath": "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson4\\cycles2\\cycles2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Farrukh\\AppData\\Roaming\\NuGet\\NuGet.Config",

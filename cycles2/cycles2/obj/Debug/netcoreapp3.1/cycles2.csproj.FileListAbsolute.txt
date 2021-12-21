@@ -11,3 +11,16 @@ C:\Users\Farrukh\source\repos\cycles2\cycles2\obj\Debug\netcoreapp3.1\cycles2.dl
 C:\Users\Farrukh\source\repos\cycles2\cycles2\obj\Debug\netcoreapp3.1\cycles2.pdb
 C:\Users\Farrukh\source\repos\cycles2\cycles2\obj\Debug\netcoreapp3.1\cycles2.genruntimeconfig.cache
 C:\Users\Farrukh\source\repos\cycles2\cycles2\obj\Debug\netcoreapp3.1\cycles2.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\c-sharp-lesson4\cycles2\cycles2\bin\Debug\netcoreapp3.1\cycles2.exe
+C:\Users\Farrukh\source\repos\c-sharp-lesson4\cycles2\cycles2\bin\Debug\netcoreapp3.1\cycles2.deps.json
+C:\Users\Farrukh\source\repos\c-sharp-lesson4\cycles2\cycles2\bin\Debug\netcoreapp3.1\cycles2.runtimeconfig.json
+C:\Users\Farrukh\source\repos\c-sharp-lesson4\cycles2\cycles2\bin\Debug\netcoreapp3.1\cycles2.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\c-sharp-lesson4\cycles2\cycles2\bin\Debug\netcoreapp3.1\cycles2.dll
+C:\Users\Farrukh\source\repos\c-sharp-lesson4\cycles2\cycles2\bin\Debug\netcoreapp3.1\cycles2.pdb
+C:\Users\Farrukh\source\repos\c-sharp-lesson4\cycles2\cycles2\obj\Debug\netcoreapp3.1\cycles2.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\c-sharp-lesson4\cycles2\cycles2\obj\Debug\netcoreapp3.1\cycles2.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\c-sharp-lesson4\cycles2\cycles2\obj\Debug\netcoreapp3.1\cycles2.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\c-sharp-lesson4\cycles2\cycles2\obj\Debug\netcoreapp3.1\cycles2.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\c-sharp-lesson4\cycles2\cycles2\obj\Debug\netcoreapp3.1\cycles2.dll
+C:\Users\Farrukh\source\repos\c-sharp-lesson4\cycles2\cycles2\obj\Debug\netcoreapp3.1\cycles2.pdb
+C:\Users\Farrukh\source\repos\c-sharp-lesson4\cycles2\cycles2\obj\Debug\netcoreapp3.1\cycles2.genruntimeconfig.cache

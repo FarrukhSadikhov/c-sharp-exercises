@@ -17,7 +17,7 @@ namespace cycles3
                 {
                     Console.Write("У отрицательных чисел факториала не бывает");
                 }
-                else if(number >0) 
+                else if(number >=0) 
                 {
                     while (number > 0)
                     {

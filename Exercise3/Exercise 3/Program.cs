@@ -12,21 +12,22 @@ namespace Exercise_3
             double a = Convert.ToDouble(Console.ReadLine());
             double b = Convert.ToDouble(Console.ReadLine());
             double c = Convert.ToDouble(Console.ReadLine());
-            if (a>b && a>c)
+            if (a>=b && a>=c)
             {
                 Console.Write("наибольший из чисел:");
                 Console.WriteLine(a);
             }
-            else if (b>a && b > c)
+            else if (b>=a && b >= c)
             {
                 Console.Write("наибольший из чисел:");
                 Console.WriteLine(b);
             }
-            else
+            else if (c>=a && c>=b)
             {
                 Console.Write("наибольший из чисел:");
                 Console.WriteLine(c);
             }
+
             }
             catch
             {

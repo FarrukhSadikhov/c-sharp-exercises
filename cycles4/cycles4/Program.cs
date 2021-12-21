@@ -6,21 +6,29 @@ namespace cycles4
     {
         static void Main(string[] args)
         {
-           // Посчитать сумму цифр заданного числа.
+            // Посчитать сумму цифр заданного числа.
+            Console.WriteLine("Введите натуральное число:");
             try 
             {
-                int number = int.Parse(Console.ReadLine());
-                int sum = 0;
+                uint number = uint.Parse(Console.ReadLine());
+                uint sum = 0;
+                if (number < 0)    
+                {
+                    Console.WriteLine("Не вводить отрицательные числа");                 
+                }
+                else
+                {               
                 while (number != 0)
                 {
                     sum = sum + number % 10;
-                    number = number / 10;
+                    number = number / 10;                 
                 }
                 Console.WriteLine(sum);
+                }
             }
             catch
             {
-                Console.WriteLine("Введите числовое значение!!!");
+                Console.WriteLine("Ошибка! Было введено некорректное значение!!!");
             }
             Console.ReadKey();
             

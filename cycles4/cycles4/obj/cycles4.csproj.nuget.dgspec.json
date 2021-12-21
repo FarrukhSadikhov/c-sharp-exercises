@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Farrukh\\source\\repos\\cycles4\\cycles4\\cycles4.csproj": {}
+    "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson4\\cycles4\\cycles4\\cycles4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Farrukh\\source\\repos\\cycles4\\cycles4\\cycles4.csproj": {
+    "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson4\\cycles4\\cycles4\\cycles4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Farrukh\\source\\repos\\cycles4\\cycles4\\cycles4.csproj",
+        "projectUniqueName": "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson4\\cycles4\\cycles4\\cycles4.csproj",
         "projectName": "cycles4",
-        "projectPath": "C:\\Users\\Farrukh\\source\\repos\\cycles4\\cycles4\\cycles4.csproj",
+        "projectPath": "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson4\\cycles4\\cycles4\\cycles4.csproj",
         "packagesPath": "C:\\Users\\Farrukh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Farrukh\\source\\repos\\cycles4\\cycles4\\obj\\",
+        "outputPath": "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson4\\cycles4\\cycles4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Farrukh\\AppData\\Roaming\\NuGet\\NuGet.Config",
